@@ -1,4 +1,5 @@
-# 🚀 Customer Churn Analysis
+> End-to-end Customer Churn Analysis on 10,000+ records with Python, SQL, and Dashboard-driven insights.
+> # 🚀 Customer Churn Analysis
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![SQL](https://img.shields.io/badge/SQL-Business%20Queries-green)
@@ -63,16 +64,14 @@ pip install -r requirements.txt
 python eda_analysis.py
 
 ## ✅ Conclusion
-
-This project demonstrates how customer data can be transformed into meaningful insights to understand churn behavior and improve retention strategies. By combining Python, SQL, and dashboard visualization, it provides a complete analytics workflow from raw data to business decision-making.
+This project demonstrates a complete data analytics workflow to understand customer churn and improve retention strategies. By analyzing 10,000+ customer records, key patterns such as contract type, monthly charges, and service usage were identified as major drivers of churn. The insights generated from this analysis can help businesses take proactive actions to retain customers and improve long-term revenue.
 
 ## 👨‍💻 Author
 
-**Galla Divya Teja**
+**Galla Divya Teja**  
+📍 Hyderabad, Telangana  
 
-Hyderabad, Telangana
+🔗 LinkedIn: https://www.linkedin.com/in/divya-teja-galla-7006592ba/  
+💻 GitHub: https://github.com/TejaGalla  
 
-🔗 LinkedIn: https://www.linkedin.com/in/divya-teja-galla-7006592ba/
-
-💻 GitHub: https://github.com/TejaGalla
-
+🚀 Aspiring Data Analyst | Python | SQL | Power BI
