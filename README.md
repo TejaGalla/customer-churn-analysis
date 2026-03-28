@@ -1,4 +1,5 @@
 > # 🚀 Customer Churn Analysis
+> End-to-end Customer Churn Analysis on 10,000+ records using Python, SQL, and dashboard-driven insights.
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![SQL](https://img.shields.io/badge/SQL-Business%20Queries-green)
