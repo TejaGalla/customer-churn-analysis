@@ -69,8 +69,10 @@ This project demonstrates how customer data can be transformed into meaningful i
 ## 👨‍💻 Author
 
 **Galla Divya Teja**
+
 Hyderabad, Telangana
-📧 [y21ece036teja@gmail.com](mailto:y21ece036teja@gmail.com)
+
 🔗 LinkedIn: https://www.linkedin.com/in/divya-teja-galla-7006592ba/
+
 💻 GitHub: https://github.com/TejaGalla
 
