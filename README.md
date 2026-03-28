@@ -61,3 +61,16 @@ customer_churn_analysis/
 ## 🚀 How to Run
 pip install -r requirements.txt
 python eda_analysis.py
+
+## ✅ Conclusion
+
+This project demonstrates how customer data can be transformed into meaningful insights to understand churn behavior and improve retention strategies. By combining Python, SQL, and dashboard visualization, it provides a complete analytics workflow from raw data to business decision-making.
+
+## 👨‍💻 Author
+
+**Galla Divya Teja**
+Hyderabad, Telangana
+📧 [y21ece036teja@gmail.com](mailto:y21ece036teja@gmail.com)
+🔗 LinkedIn: https://www.linkedin.com/in/divya-teja-galla-7006592ba/
+💻 GitHub: https://github.com/TejaGalla
+
